@@ -23,7 +23,7 @@ const questions = [
       { text: "Kalahari", correct: false },
       { text: "Gobi", correct: false },
       { text: "Sahara", correct: false },
-      { text: "Antartica", correct: true },
+      { text: "Antarctic", correct: true },
     ],
   },
   {
@@ -31,7 +31,7 @@ const questions = [
     answers: [
       { text: "Asia", correct: false },
       { text: "Australia", correct: true },
-      { text: "Arctic", correct: false },
+      { text: "South America", correct: false },
       { text: "Africa", correct: false },
     ],
   },
